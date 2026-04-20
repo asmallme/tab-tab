@@ -32,7 +32,7 @@ Tab Tab（以下简称"本扩展"）是一款运行在 Chrome 浏览器内的标
 
 ### 联系方式
 
-如对本隐私政策有任何疑问，请通过 [GitHub Issues](https://github.com/YOUR_USERNAME/tab-tab/issues) 联系我们。
+如对本隐私政策有任何疑问，请通过 [GitHub Issues](https://github.com/asmallme/tab-tab/issues) 联系我们。
 
 ---
 
@@ -66,4 +66,4 @@ You can at any time:
 
 ### Contact
 
-For questions about this policy, please open an issue at [GitHub Issues](https://github.com/YOUR_USERNAME/tab-tab/issues).
+For questions about this policy, please open an issue at [GitHub Issues](https://github.com/asmallme/tab-tab/issues).
